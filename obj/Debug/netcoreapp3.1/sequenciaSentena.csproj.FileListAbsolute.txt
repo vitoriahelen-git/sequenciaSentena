@@ -1,0 +1,13 @@
+C:\Users\Casa\Documents\ETEC-PC1\sequenciaSentena\bin\Debug\netcoreapp3.1\sequenciaSentena.exe
+C:\Users\Casa\Documents\ETEC-PC1\sequenciaSentena\bin\Debug\netcoreapp3.1\sequenciaSentena.deps.json
+C:\Users\Casa\Documents\ETEC-PC1\sequenciaSentena\bin\Debug\netcoreapp3.1\sequenciaSentena.runtimeconfig.json
+C:\Users\Casa\Documents\ETEC-PC1\sequenciaSentena\bin\Debug\netcoreapp3.1\sequenciaSentena.runtimeconfig.dev.json
+C:\Users\Casa\Documents\ETEC-PC1\sequenciaSentena\bin\Debug\netcoreapp3.1\sequenciaSentena.dll
+C:\Users\Casa\Documents\ETEC-PC1\sequenciaSentena\bin\Debug\netcoreapp3.1\sequenciaSentena.pdb
+C:\Users\Casa\Documents\ETEC-PC1\sequenciaSentena\obj\Debug\netcoreapp3.1\sequenciaSentena.csprojAssemblyReference.cache
+C:\Users\Casa\Documents\ETEC-PC1\sequenciaSentena\obj\Debug\netcoreapp3.1\sequenciaSentena.AssemblyInfoInputs.cache
+C:\Users\Casa\Documents\ETEC-PC1\sequenciaSentena\obj\Debug\netcoreapp3.1\sequenciaSentena.AssemblyInfo.cs
+C:\Users\Casa\Documents\ETEC-PC1\sequenciaSentena\obj\Debug\netcoreapp3.1\sequenciaSentena.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Documents\ETEC-PC1\sequenciaSentena\obj\Debug\netcoreapp3.1\sequenciaSentena.dll
+C:\Users\Casa\Documents\ETEC-PC1\sequenciaSentena\obj\Debug\netcoreapp3.1\sequenciaSentena.pdb
+C:\Users\Casa\Documents\ETEC-PC1\sequenciaSentena\obj\Debug\netcoreapp3.1\sequenciaSentena.genruntimeconfig.cache
